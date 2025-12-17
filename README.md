@@ -1,4 +1,4 @@
-# BanG Dream! ZK Gacha
+# BanG Dream! Zero-Knowledge Gacha
 
 ![ReadMe Image](./ReadMeImage.png)
 
