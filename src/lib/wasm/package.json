@@ -1,0 +1,15 @@
+{
+  "name": "zk_gacha",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "zk_gacha_bg.wasm",
+    "zk_gacha.js",
+    "zk_gacha.d.ts"
+  ],
+  "main": "zk_gacha.js",
+  "types": "zk_gacha.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
