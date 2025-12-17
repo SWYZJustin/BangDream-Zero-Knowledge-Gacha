@@ -6,6 +6,10 @@ A zero-knowledge proof gacha system demonstrating cryptographic verification of 
 
 This application implements a gacha (loot box) system for BanG Dream! Girls Band Party characters with cryptographic guarantees. All random draws, rarity calculations, and pity logic are verified using zero-knowledge proofs, ensuring the server cannot manipulate outcomes without detection.
 
+## Live Demo
+
+🔗 **[Try it on Vercel](https://bang-dream-zero-knowledge-gacha.vercel.app)**
+
 ## Gacha Pools
 
 ### Standard Gacha
