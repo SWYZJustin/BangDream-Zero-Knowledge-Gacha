@@ -1,0 +1,10 @@
+{
+  "buildCommand": "yarn build",
+  "installCommand": "bash vercel-install.sh",
+  "framework": "nextjs",
+  "functions": {
+    "src/pages/api/**/*.ts": {
+      "maxDuration": 30
+    }
+  }
+}

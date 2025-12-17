@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "yarn build:wasm && next build",
     "start": "next start",
     "lint": "next lint",
     "build:wasm": "cd circuits && wasm-pack build --target web --out-dir ../src/lib/wasm && cd .. && node scripts/copy-wasm.js"
