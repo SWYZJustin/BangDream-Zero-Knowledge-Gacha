@@ -1,5 +1,7 @@
 # BanG Dream! ZK Gacha
 
+![ReadMe Image](./ReadMeImage.png)
+
 A zero-knowledge proof gacha system demonstrating cryptographic verification of random number generation, rarity computation, and pity mechanisms.
 
 ## Overview
