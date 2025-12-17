@@ -1,5 +1,5 @@
 {
-  "buildCommand": "yarn build",
+  "buildCommand": "source $HOME/.cargo/env && yarn build",
   "installCommand": "bash vercel-install.sh",
   "framework": "nextjs",
   "functions": {
